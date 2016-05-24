@@ -1,0 +1,28 @@
+name: The Band Research
+favicon: null
+layout_spectrum: 0.17934096092358232
+typography_spectrum: 0.5970049172174186
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9615455230232328
+  lightness: 0.5968870762735605
+  saturation: 0.975800754269585
+  rhythmicContrast: 0.830283896997571
+purpose: []
